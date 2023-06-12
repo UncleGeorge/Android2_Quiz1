@@ -30,7 +30,8 @@
                 android:textColor="@color/black"
                 android:textStyle="bold"/>
 
-            <CheckBox android:id="@+id/checkbox_meat"
+            <CheckBox
+                android:id="@+id/priority"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Priority" />
